@@ -2,3 +2,5 @@ plotly==4.8.1
 dash==1.12.0
 dash_core_components
 dash_html_components
+os
+flask
